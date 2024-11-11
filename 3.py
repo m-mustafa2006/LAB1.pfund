@@ -1,0 +1,8 @@
+print("***BIO Data***")
+Firstname=input("Enter your first name:")
+lastname=input("Last name:")
+age=int(input("Enter your age:"))
+university=input("Enter your university name:")
+print("Your Fullname is:", Firstname, lastname)
+print("Your age is:", age)
+print("Your University is:", university)
